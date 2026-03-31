@@ -1,0 +1,88 @@
+breadName,flourType1,flourType2,flourType3,e_flourTypePerc1,e_flourTypePerc2,e_flourTypePerc3,e_hydrationPerc,hydrationType1,hydrationType2,e_hydrationTypePerc1,e_hydrationTypePerc2,e_fatPerc,fatType1,fatType2,e_fatTypePerc1,e_fatTypePerc2,e_saltPerc,sugarType,e_sugarPerc,e_leavenShare,e_leavenHydration,e_poolishShare,e_poolishHydration,e_tangzhongShare,e_loafWeight,flourTypeLeaven1,flourTypeLeaven2,e_flourTypeLeaven1,e_flourTypeLeaven2,flourTypePoolish1,flourTypePoolish2,e_flourTypePoolish1,e_flourTypePoolish2,e_prefrmt_poolish_leavenShare,e_prefrmt_poolish_leavenHydration,flourTypeTangzhong,txt_comments
+zabkenyer_v2,BL55 buzafinomliszt,TK buzaliszt,zabliszt,55.0,20.0,25.0,70.0,tej,none,70.0,0.0,6.0,vaj,none,6.0,0.0,1.5,nadcukor,12.0,20.0,50.0,0.0,0.0,0.0,500.0,BL80 kenyerliszt,none,100.0,0.0,none,none,0.0,0.0,0.0,0.0,none," 
+
+
+"
+zabkenyer,BL80 kenyerliszt,TK buzaliszt,zabliszt,50.0,20.0,30.0,80.0,tej,none,80.0,0.0,6.0,vaj,none,6.0,0.0,1.5,nadcukor,12.0,20.0,80.0,0.0,0.0,0.0,500.0,BL80 kenyerliszt,TK buzaliszt,67.0,33.0,none,none,0.0,0.0,0.0,0.0,none," 
+
+"
+tejkenyer_v2,BL80 kenyerliszt,TK buzaliszt,none,70.0,30.0,0.0,75.0,tej,none,75.0,0.0,0.0,none,none,0.0,0.0,2.2,mez,5.5,10.0,50.0,0.0,0.0,0.0,1000.0,BL80 kenyerliszt,none,100.0,0.0,none,none,0.0,0.0,0.0,0.0,none," 
+
+
+
+
+"
+tejkenyer,BL80 kenyerliszt,TK buzaliszt,none,65.0,35.0,0.0,75.0,tej,none,75.0,0.0,0.0,none,none,0.0,0.0,2.2,mez,5.5,20.0,50.0,0.0,0.0,0.0,750.0,BL80 kenyerliszt,TK buzaliszt,50.0,50.0,none,none,0.0,0.0,0.0,0.0,none," 
+
+
+"
+rozskenyer,BL80 kenyerliszt,rozsliszt,none,75.0,25.0,0.0,70.0,viz,none,70.0,0.0,0.0,none,none,0.0,0.0,2.5,none,0.0,20.0,80.0,0.0,0.0,0.0,1000.0,TK buzaliszt,BL80 kenyerliszt,50.0,50.0,none,none,0.0,0.0,0.0,0.0,none," 
+"
+pizza,BL80 kenyerliszt,none,none,100.0,0.0,0.0,71.0,viz,none,71.0,0.0,3.7,oliva olaj,none,3.7,0.0,2.7,none,0.0,16.0,80.0,0.0,0.0,0.0,273.0,BL80 kenyerliszt,TK buzaliszt,50.0,50.0,none,none,0.0,0.0,0.0,0.0,none,"pizzatészta 2 fő részére
+
+
+
+
+"
+laffa_tk,BL80 kenyerliszt,none,none,75.0,25.0,0.0,66.0,viz,none,66.0,0.0,5.6,oliva olaj,none,5.6,0.0,1.7,barnacukor,1.5,16.0,80.0,0.0,0.0,0.0,273.0,BL80 kenyerliszt,TK buzaliszt,50.0,50.0,none,none,0.0,0.0,0.0,0.0,none,"laffa 2 fő részére
+
+
+
+
+
+
+
+
+"
+laffa,BL80 kenyerliszt,none,none,100.0,0.0,0.0,66.0,viz,none,66.0,0.0,5.6,oliva olaj,none,5.6,0.0,1.7,barnacukor,1.5,16.0,80.0,0.0,0.0,0.0,273.0,BL80 kenyerliszt,TK buzaliszt,50.0,50.0,none,none,0.0,0.0,0.0,0.0,none,"laffa 2 fő részére
+
+
+
+
+
+
+
+"
+kalacs_v2,BL55 buzafinomliszt,TK buzaliszt,none,80.0,20.0,0.0,50.0,tej,none,50.0,0.0,17.3,vaj,tojas,10.0,7.3,2.0,barnacukor,14.0,20.0,50.0,0.0,0.0,0.0,750.0,BL80 kenyerliszt,none,100.0,0.0,none,none,0.0,0.0,0.0,0.0,none,"2 tojássárgája a tésztába
+150 g aszalt áfonya
++ 1 db tojás és 1 ek tej a tetejét kenni 
+90g szeletelt mandula a tetejére
+
+
+
+
+
+"
+kalacs_v1,BL55 buzafinomliszt,none,none,100.0,0.0,0.0,50.0,tej,none,50.0,0.0,17.3,vaj,tojas,10.0,7.3,2.0,kristalycukor,16.0,20.0,50.0,0.0,0.0,0.0,750.0,TK buzaliszt,none,100.0,0.0,none,none,0.0,0.0,0.0,0.0,none,"2 tojássárgája a tésztába
+150 g aszalt áfonya
++ 1 db tojás és 1 ek tej a tetejét kenni 
+
+
+
+"
+feherkenyer,BL80 kenyerliszt,none,none,100.0,0.0,0.0,80.0,viz,none,80.0,0.0,0.0,none,none,0.0,0.0,2.2,none,0.0,22.0,80.0,0.0,0.0,40.0,1000.0,BL80 kenyerliszt,none,100.0,0.0,none,none,0.0,0.0,0.0,0.0,BL80 kenyerliszt," 
+"
+durumkenyer,BL80 kenyerliszt,durumliszt,none,67.0,33.0,0.0,70.0,viz,none,70.0,0.0,5.0,oliva olaj,none,5.0,0.0,2.2,mez,1.5,20.0,80.0,0.0,0.0,0.0,1000.0,TK buzaliszt,BL80 kenyerliszt,50.0,50.0,none,none,0.0,0.0,0.0,0.0,none," 
+
+
+
+
+
+
+"
+croissant,BL55 buzafinomliszt,TK buzaliszt,none,80.0,20.0,0.0,62.0,viz,none,62.0,0.0,10.0,vaj,none,10.0,0.0,1.5,barnacukor,10.0,30.0,50.0,0.0,0.0,0.0,550.0,BL80 kenyerliszt,none,100.0,0.0,none,none,0.0,0.0,0.0,0.0,none,"+250g vaj és 25g liszt a vajlaphoz
++1 tojás a tetejét megkenni
+Sütés: 200fokon 25-30 perc
+Kakaó-cukor arány 1:2.5
+
+
+"
+Alapkenyer_v2,BL80 kenyerliszt,TK buzaliszt,none,80.0,20.0,0.0,75.0,viz,none,75.0,0.0,0.0,none,none,0.0,0.0,2.2,none,0.0,10.0,80.0,0.0,0.0,40.0,1000.0,BL80 kenyerliszt,TK buzaliszt,50.0,50.0,none,none,0.0,0.0,0.0,0.0,BL80 kenyerliszt," 
+
+
+
+
+"
+Alapkenyer,BL80 kenyerliszt,TK buzaliszt,none,75.0,25.0,0.0,75.0,viz,none,75.0,0.0,0.0,none,none,0.0,0.0,2.2,none,0.0,20.0,80.0,0.0,0.0,0.0,1000.0,BL80 kenyerliszt,TK buzaliszt,50.0,50.0,none,none,0.0,0.0,0.0,0.0,none," 
+
+"

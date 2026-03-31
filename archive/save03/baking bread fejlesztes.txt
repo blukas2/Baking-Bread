@@ -1,0 +1,11 @@
+Baking Bread alkalmazás fejlesztések:
+- tangzhong használata
+- kovász kalkulátor
+- előtészta használata
+
+- a receptszámításkor kiírja ha valami érték nem stimmel
+- visszafele recepszámító
+
+- gombokat rakni az egyes entry-k mellé, ami automatikusan kiszámolja a dolgokat
+
+- a receptkártyán export funkció működjön
